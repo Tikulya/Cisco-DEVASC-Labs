@@ -1,0 +1,18 @@
+=== Cisco DEVASC VM ===
+devasc
+/home/devasc/Cisco-DEVASC-Labs/Lab-01
+Python 3.8.2
+git version 2.25.1
+=== Cisco Lab Directories ===
+ansible
+coding-basics
+jenkins
+mapquest
+parsing
+ptna
+python
+sample-app
+school-library
+security
+unittest
+webex-teams
