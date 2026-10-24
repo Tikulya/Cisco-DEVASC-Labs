@@ -1,0 +1,15 @@
+=== Data Types ===
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+
+=== Variables ===
+x * 5 = 15
+ya love tebya
+
+=== Lists ===
+['RTR1', 'R2', 'R3', 'S2']
+
+=== Dictionaries ===
+{'R1': '10.1.1.1', 'R2': '10.2.2.1', 'R3': ['10.3.3.1', '10.3.3.2', '10.3.3.3'], 'S1': '10.1.1.10'}
