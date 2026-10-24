@@ -1,0 +1,12 @@
+test_is_a_list (test_json_search.json_search_test)
+proveryaet chto spisok vozvrashaetsya ... ok
+test_search_found (test_json_search.json_search_test)
+proveryaet chto vse norm ... ok
+test_search_not_found (test_json_search.json_search_test)
+proveryaet chto net nepravil'nogo ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+[{'issueSummary': 'Network Device 10.10.20.82 Is Unreachable From Controller'}]

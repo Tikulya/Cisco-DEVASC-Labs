@@ -1,0 +1,21 @@
+test_is_a_list (test_json_search.json_search_test)
+proveryaet chto spisok vozvrashaetsya ... ok
+test_search_found (test_json_search.json_search_test)
+proveryaet chto vse norm ... FAIL
+test_search_not_found (test_json_search.json_search_test)
+proveryaet chto net nepravil'nogo ... ok
+
+======================================================================
+FAIL: test_search_found (test_json_search.json_search_test)
+proveryaet chto vse norm
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/devasc/Cisco-DEVASC-Labs/Lab-08/test_json_search.py", line 12, in test_search_found
+    self.assertTrue([] != json_search(key1, data))
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+FAILED (failures=1)
+[]
