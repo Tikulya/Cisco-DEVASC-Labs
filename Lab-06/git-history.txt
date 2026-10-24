@@ -1,0 +1,3 @@
+* 04b4d1b voinu nachinaem
+* 9c6b069 sohranyaemsya
+* 7d29fe3 Committing DEVASC.txt to begin tracking changes
